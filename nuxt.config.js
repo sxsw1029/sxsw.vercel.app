@@ -50,7 +50,7 @@ export default {
   build: {},
 
   tailwindcss: {
-    cssPath: '@/assets/css/tailwind.css',
+    cssPath: '@/assets/css/tailwind.pcss',
     configPath: 'tailwind.config.js',
   },
 }
