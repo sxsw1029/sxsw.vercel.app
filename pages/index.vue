@@ -1,7 +1,7 @@
 <template>
   <main>
     <div
-      class="w-full h-screen bg-cover bg-center bg-no-repeat"
+      class="w-full h-screen bg-cover bg-center bg-no-repeat bg-fixed"
       :style="`background-image: url(${index.backgroundImage})`"
     >
       <div
