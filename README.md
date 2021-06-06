@@ -17,7 +17,7 @@
 
 <div align="center">
     <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/sxsw1029/sxsw.vercel.app?style=flat-square">
-    <img alt="GitHub" src="https://img.shields.io/github/license/sxsw1029/sxsw.vercel.app?style=flat-square">
+    <img alt="GitHub" src="https://img.shields.io/github/license/sxsw1029/sxsw.vercel.app?color=blue&style=flat-square">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/sxsw1029/sxsw.vercel.app/ci?style=flat-square">
 </div>
 
